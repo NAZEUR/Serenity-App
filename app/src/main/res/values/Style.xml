@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+
+    <style name="FontUtama">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/tertiary</item>
+    </style>
+
+    <style name="FontKedua">
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="fontdescripsi">
+        <item name="android:textSize">13sp</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="fonttittle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/tertiary</item>
+    </style>
+
+    <style name="fontbutton">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="CustomToolbarTheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:colorControlNormal">@android:color/white</item>
+    </style>
+
+</resources>
